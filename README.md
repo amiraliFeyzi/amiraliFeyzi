@@ -3,13 +3,12 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="badges" align="center">
-  <a href="https://www.instagram.com/amirali12_29/">
-    <img src="https://camo.githubusercontent.com/aa1a051f7d2d27c32b65c796a5188a258431b38a88547e93be310061cdba6a37/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d6534343035663f7374796c653d666c61742d737175617265266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Instagram Badge"/>
+<div id="badges">
+ <a href="www.linkedin.com/in/amirali-feizollahzadeh">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  
-</div> 
-
+</div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="profile Views"/>
   
